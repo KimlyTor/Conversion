@@ -1,23 +1,18 @@
-# Homework 1
 
-## Due Thursday, May 31st at 11:59pm.
 
-Please remember that to submit the assignment you will need to the Education drop down menu and select  assignment complete. Once you have marked the assignment as complete you will not be able to edit it again. 
-
-## Problem 1 - 10 points
-
+#Problem 1
 Write a program called F2C that allows the user to convert from degrees Fahrenheit to degrees Celsius.  The program should prompt for a temperature in Fahrenheit and output a temperature in Celsius.  All calculations should be done in in ints, so be careful of truncation.
 
 *Note: remember the Scanner class from lecture.  Look it up in the Java api and pay special attention to the nextInt method.*
 
 Edit the file *F2C.java* included in the workspace.
 
-## Problem 2 - 20 points
+## Problem 2 
 
 Create an application in Java that asks a user for a number of hours, days, weeks, and years.  It then computes the equivalent number of minutes (ignoring leap years). Edit the file *Minutes.java* included in the workspace.
 
 
-## Problem 3 - 20 points
+## Problem 3 
 
 Implement a program that directs a cashier how to give change. The program has two inputs: the amount due and the amount received form the customer.
 
