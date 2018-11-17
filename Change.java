@@ -1,6 +1,6 @@
 /** Change.java - direct a cashier how to give change
  * 
- *  Kimly Tor
+ *  @author ktkay
  */
 import java.util.Scanner;
 
