@@ -1,6 +1,6 @@
 /** F2C.java - converting Fahrenheit to Celsius
  * 
- *  Kimly Tor
+ *  @author ktkay
  */
 import java.util.Scanner;
 
