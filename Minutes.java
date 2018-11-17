@@ -1,6 +1,6 @@
 /** Minutes.java - converting hours, days, weeks, and years into minutes
  * 
- *  Kimly Tor
+ *  @author ktkay
  */
 import java.util.Scanner;
 
