@@ -3,9 +3,6 @@
 ## Problem 1
 Write a program called F2C that allows the user to convert from degrees Fahrenheit to degrees Celsius.  The program should prompt for a temperature in Fahrenheit and output a temperature in Celsius.  All calculations should be done in in ints, so be careful of truncation.
 
-*Note: remember the Scanner class from lecture.  Look it up in the Java api and pay special attention to the nextInt method.*
-
-Edit the file *F2C.java* included in the workspace.
 
 ## Problem 2 
 
@@ -18,4 +15,3 @@ Implement a program that directs a cashier how to give change. The program has t
 
 Display the dollars, quarters, dimes, nickels, and pennies that the customer should receive in return.  In order to avoid roundoff errors, the program user should supply both amounts in pennies (for example 274 instead of 2.74).
 
-Edit the file *Change.java* included in the workspace.
